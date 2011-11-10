@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurveGame (Windows)", "CurveGame\CurveGame\CurveGame (Windows).csproj", "{A7180A0D-E472-40C1-89C2-C42BB182399F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurveGameContent", "CurveGame\CurveGameContent\CurveGameContent.contentproj", "{F5E8D3B1-5FC2-4C87-B29A-3F68D6F71870}"
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CurveGameContent", "CurveGame\CurveGameContent\CurveGameContent.contentproj", "{F5E8D3B1-5FC2-4C87-B29A-3F68D6F71870}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurveGame (Xbox 360)", "CurveGame\CurveGame\CurveGame (Xbox 360).csproj", "{9EC22920-6333-46CC-80A5-BA15321D03F3}"
 EndProject
